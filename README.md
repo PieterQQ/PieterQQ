@@ -9,19 +9,19 @@
 - Experience: none :disappointed:, but i'm ambitious and i learn very quickly, so i hope i can contribute your projects and become valuable for your company soon :wink:.
 - Preferred job type: **full-time**, but every experience would be precious for me.
 
-**What I know and use :muscle::**
--C#
--.NET Framework
--.NET Core
--MVC
--REST API
--Entity Framework
--LINQ
--MS SQL
--WPF
--Winforms
+**What I know and use :muscle:**
+- C#
+- .NET Framework
+- .NET Core
+- MVC
+- REST API
+- Entity Framework
+- LINQ
+- MS SQL
+- WPF
+- Winforms
 
-#### Check my Repositories!!!!!!
+### Check my Repositories!!!!!!
 
 
 ## About me
