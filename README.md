@@ -1,16 +1,33 @@
 ### Hi there 👋
+## Bartosz Chodkowski 👋
 
-<!--
-**PieterQQ/PieterQQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Newbie programmer currently focused on .NET Core
 
-Here are some ideas to get you started:
+## Currently looking for .NET Developer Job/Internship!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Preferred place: **Śląsk, Poland**
+- Experience: none :disappointed:, but i'm ambitious and i learn very quickly, so i hope i can contribute your projects and become valuable for your company soon :wink:.
+- Preferred job type: **full-time**, but every experience would be precious for me.
+
+**What I know and use :muscle::**
+-C#
+-.NET Framework
+-.NET Core
+-MVC
+-REST API
+-Entity Framework
+-LINQ
+-MS SQL
+-WPF
+-Winforms
+
+#### Check my Repositories!!!!!!
+
+
+## About me
+
+Studying programming for few years already. Started with C++ and simple console profects. Then i decided to continue studying on Wyższa Szkoła Bankowa where i got diploma for Programming and also graphic design.  At university i discovered C# and gained some skills in solo and group programming projects. Now it's my hobby, when i have some freetime i look for new inspiration and start programming. By far im Backend dev, but i want to learn some Frontend solution and become Fullstack Dev
+
+
+#### Find me around WEB :earth:
+-DM me at <a href="https://www.linkedin.com/in/bartosz-chodkowski/">LinkedIn</a>
