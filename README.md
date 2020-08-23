@@ -2,7 +2,7 @@
 ## Bartosz Chodkowski 👋
 
 #### Newbie programmer currently focused on .NET Core
-
+![PieterQQ's github stats](https://github-readme-stats.vercel.app/api?username=PieterQQ&count_private=true&show_icons=true&hide=contribs,prs)
 ## Currently looking for .NET Developer Job/Internship!
 
 - Preferred place: **Śląsk, Poland**
